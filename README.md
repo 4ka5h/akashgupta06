@@ -11,6 +11,7 @@ I'm Akash Gupta, Currently Pursuing Postgraduate in Communication and Signal Pro
 - I’m currently working on design of a proactive authetication and key agreement protocol.
 - Completed my BTech from NIT Jalandhar.
 - Love to explore open source softwares and find easter eggs.
+- Interested in security aspects of Operating Systems.
 
 ---
 
