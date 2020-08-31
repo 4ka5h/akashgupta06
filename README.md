@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-aksgpt30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aksgpt30@gmail.com)](mailto:aksgpt30@gmail.com)
 ---
 ## Hi there 👋,           
-I'm Akash Gupta, Currently Pursuing Postgraduate in Communication and Signal Processing at IIT Bombay. Proficient in C++ and Python Language. Presently I'm working in the area of Security in IoT devices.
+I'm Akash Gupta, Currently Pursuing Postgraduate in Communication and Engineering at IIT Bombay. Proficient in C++ and Python Language. Presently I'm working in the area of Security in IoT devices.
 
 ---
 
